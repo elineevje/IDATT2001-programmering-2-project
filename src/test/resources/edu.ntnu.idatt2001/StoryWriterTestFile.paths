@@ -1,0 +1,10 @@
+TestStoryTitle
+
+::TestPassageTitle
+TestPassageContent
+[TestLinkText](TestLinkReference){Inventory:Book}
+
+::TestLinkReference
+TestPassageContent2
+[TestLinkText2](TestLinkReference2){Score:2}
+[TestLinkText3](TestLinkReference3){Health:21}

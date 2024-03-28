@@ -1,0 +1,108 @@
+ In the forest
+
+::Beginnings
+It had been a beautiful morning. The sun was shining, and you were participating for a gold medal in the local orientation championship. The anticipation had been building up to the big day as this was a competition you had prepared for months in advance. Shortly after the starting shot, you managed to make a comfortable gap to the other competitors by setting a decent start phase. As the competition evolved and you successfully checked out control point after control point. The distance from the competitors grew even larger in line with your confidence. The long-awaited gold medal was within reach, it was just a matter of getting to the finish line. All of a sudden you lose your footing, tripping over a large root on your way into the big forest. Time goes by. You open your eyes and uses a second to regain your consciousness. You must have hit your head when stumbling. Oh no, you remember the competition. The clock was ticking! Looking around you discover that both your map and the compass were gone. Your task is therefore to get to the finish line as quickly as possible on your own. What is your next move? Take a moment to check your health or continue the competition?
+[Take a break](Taking a break)
+[Continue](Continuing the competition)
+
+::Taking a break
+You decide to take a short break before continuing. This gives you the time to regain your breath. As you lift your hand to your head, checking for blood. Auch! You notice a small swollen bump placed in the centre of your forehead. Taking the injury into consideration, you review it was a wise move to take a moment before continuing the competition. Nevertheless, the clock was ticking, tick tock. You are not winning any medals by standing still, you must hurry!
+[Run into the forest](Entering the forest)
+
+::Continuing the competition
+You start running towards the forest at a high phase, but quickly notice a stinging pain from your forehead. Auch! A swollen bump has emerged. Although the clock is ticking, you need to take a moment to check for blood and other injuries before continuing the competition.
+[Run into the forest](Entering the forest)
+
+::Entering the forest
+When running into the big and unknown forest, you notice that the towering threes makes a shadowing shield, blocking out all the bright sunlight. Not knowing the way out of this dark and mysterious forest gives you the chills down your back. While running you suddenly notice something lying on the ground a couple of yards ahead. It is the orientation map!
+[Pick up the map](Looking at the map)
+
+::Looking at the map
+You pick up the map and take a deep breath before examining it. To your left, a narrow path leading to the finish line is marked. Hush! Listen! You hear noises coming from far away on your right. You can not quite place which sounds you hear. Could it be your competitors lying before you in the race, the sound of water running through the mysterious forest or maybe just an animal making noises? Which direction are you going to follow, the left-hand marked path or the noises to the right?
+[Follow the path](Follow the path to the left)
+[Follow the sounds](Follow the sounds to the right)
+
+::Follow the path to the left
+You decide to follow the safer rout to the left and start running on the narrow path into the unknown. The path is lengthy and winding, and you regularly have to jump over rocks and roots that creates obstacles on the way. While running you passing something pink and shiny as an opposite contrast to the dark and green forest. You stop and jog back to the shiny object. Confusion fills your body as you realize it is a pair of swimming goggles. Why has someone left their swimming goggles in the middle of a deep forest? What do you do?
+[Leave the goggles behind](Continue without the goggles)
+[Pick up the goggles](Continue with the goggles)
+
+::Continue with the goggles
+You decide to pick up the pink swimming goggles and brings them with you on the journey. You run deeper into the forest, leaving yards and yards behind. In the distance you notice the bright sunlight clearing up the surroundings. Maybe this could be your way out of the forest, and therefore bringing you nearer to the finish line?
+[Run towards the sunlight](Out in the sun)
+
+::Continue without the goggles
+You decide to leave the goggles behind, while concluding you would not need them for securing the gold medal. You set up a decent running phase and run deeper into the forest, leaving yards and yards behind. The ticking clock would not leave the back of your mind.
+[Increase the running phase](Lost?)
+
+::Lost?
+You increase the phase even more. After a while you notice that the contrast between the narrow path and the terrain becomes more and more difficult to separate. You decide to stop and cross-check your location on the map. Oh no, you are lost! You search up and down the map repeatedly. With the ongoing competition in the back of your mind, you have to follow your gut feeling, lean left or right?
+[Left](Left)
+[Right](Right)
+
+::Left
+You lean left and continues the hunt for the medal. Running alone in the big unknown forest is dreading, you can only hear your own breath as you push forward. Wait! In the distance you can glance something resembling the path you had followed earlier.  You take out the map and makes sure that you have found your way back to the marked path. Hurray!
+[Run to the path](Back on the path)
+
+::Right
+As you lean to the right, through a couple of dense bushes and trees, you notice the bright sunlight clearing up the surroundings from a far. Maybe this could be your way out of the forest, and therefore bringing you nearer to the finish line? As you approach the light, your vision becomes increasingly blurred by the rays of sun. You reach into your pocket and find the sunglasses you found earlier in the race.
+[Put on the sunglasses](Protected and clear vision)
+
+::Out in the sun
+As you reach the end of the forest your vision is blurred by the rapid change of lighting, from the dark forest to the bright landscape. In addition to the bright light, you feel the sun burning on your skin. To complete the competition you have to protect yourself from the sun.
+[Put on the sunglasses](Protected and clear vision)
+[Put on the goggles](Burnt and blinded)
+
+::Protected and clear vision
+You put on the sunglasses and quickly regain your vision. While examining the surroundings you recognize the terrain and spots the path marked up on the map. Your focus is now set on finishing the race!
+[Run back on the path](Back on the path)
+
+::Burnt and blinded
+In an attempt to protect yourself from the sun and regaining the vision you put on the swimming goggles. Unfortunately, they do not help, as your vision still is blinded and your skin is burning. In order to gather your focus, you seek shelter in the shade of a tree nearby. Tick tock. Valuable time passes before you feel ready to continue towards the finish line.
+[Start running again](Spots the finish line)
+
+::Follow the sounds to the right
+You decide to follow the noises to the right further into the dense forest. As you run towards the sounds you are passing both trees and bushes. Hush again! Listen! You can now hear the sounds even clearer. But the noises are diverging. On the one side you can hear a calming and natural noise of something drizzling. On the other side you hear human voices. Which sound are you going to follow? The calming or the human noises?
+[The calming drizzling sound](Little water creek)
+[The noise of a human](Looking at the map again)
+
+::Little water creek
+You decide to following the natural drizzling sound. As you round the corner of a tree hedge you are greeted by a small peaceful waterfall, surrounded by the most beautiful flowers you ever have seen. The water was crystal clear and blue. You run to the water to dehydrate yourself. As you bend down you catch sight of something pink and shiny floating in the water. After a closer look, you comprehend that it is a pair of swimming goggles. After taking a sip of water, you pick up the goggles and prepare to continue the race.
+[Continue running](Sunlight)
+
+::Sunlight
+As you continue to run, you soon sees the bright sunlight a couple hundred of meters ahead. Yay! You must be close to the finish line. As you come out of the dark and dense forest, the ray of sun hits you right in the face. Oh no you cannot see anything! You open your backpack and search for something that can be used to protect you from the sun. Other than the map, the pink swimming goggles is the only thing you can use against the bright sunlight.
+[Put on the goggles](Burnt and blinded)
+
+::Looking at the map again
+As you decide to follow the human noise, you can hear a human crying for help. Help! You pick up the map to try to locate where it is coming from. Suddenly you discover a shortcut leading you straight out of the forest. Hmm, what should you do in this tricky situation. Take the shortcut in the chance for the medal or investigate what has happened?
+[Take the shortcut!](Shortcut)
+[Continue toward the noises](Follow human noises)
+
+::Shortcut
+You take the shortcut, leaving the person behind. As you run further you spots the end of the forest, which means that the finish is within reach. So exciting!
+[Run to the end of the forest](Spots finish line)
+
+::Follow human noises
+Without a blink of an eye, you decides to investigate what has happened to the screaming person. Still believing in the back of your mind that a medal is within reach. Thirty meters ahead you spot someone lying on the ground holding their ankle. You make a quick assessment of the situation and quickly find out that you have two options. One, run up and make sure it goes well. Two, run straight pass. This was not a life-threatening situation, plus no one was there to help you when you stumbled earlier.
+[Make sure everything is ok](Check on the person)
+[Run past](Run past the person)
+
+::Check on the person
+You rush up to the person and make sure everything is ok. Despite the serve pain, you are assured that everything is going well. As a thank you for your care, you receive a compass, that can help you reaching the finish line.
+[Use the compass](Spots the finish line)
+
+::Run past the person
+Nothing can stop you now, you have worked so long for this race! With a bent head, you rush past the crying person and set your sights on reaching the finish line.
+[Run out of the forest](Spots the finish line)
+
+::Back on the path
+You reach back to the path marked on the path, and it is leading you out of the dark forest. Yay! Finally done with the nightmare of a big forest.
+[Follow the path out of the forest](Spots the finish line)
+
+::Spots the finish line
+Hurray! The long-awaited finish line gets closer with every step you take. You push your body with the last of your strength and makes a final sprint against the ticking clock. Tick tock.
+[Cross the finish line!](Finish line)
+
+::Finish line
+You throw yourself over the finish line. Completely exhausted after a long and challenging run. Phew! You breathe a sigh of relief and acknowledge the satisfying feeling of completion the competition, not knowing how well you did. Where did you end up on the result list?

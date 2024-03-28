@@ -1,0 +1,14 @@
+Haunted House
+
+::Beginnings
+You are in a dark room. There is a door to your left.
+[Try to open the door](Another room){Gold:-1}
+
+::Another room
+The door opens to another room. You see a desk with a large, dusty book on it.
+[Read the book](The book){Inventory:Book}
+[Leave the room](Kitchen){Score:2}
+
+::Kitchen
+You Lost 1 gold coin. You leave the room and go back to the beginning.
+[Go back to the beginning](Bathroom){Health:21}

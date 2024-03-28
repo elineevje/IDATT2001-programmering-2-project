@@ -1,0 +1,260 @@
+.titles {
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 40;
+    -fx-text-fill: #fff9e0;
+}
+
+.buttons {
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+    -fx-text-fill: #0097B2;
+    -fx-background-color: #fff9e0;
+    -fx-background-radius: 20;
+}
+
+.uploadGameButtons {
+    -fx-alignment: center;
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+    -fx-text-fill: #0097B2;
+    -fx-background-color: #fff9e0;
+    -fx-background-radius: 20;
+    -fx-pref-width: 180;
+}
+
+.buttons:hover {
+    -fx-background-color: #b5efff;
+    -fx-background-radius: 20;
+}
+
+.uploadGameButtons:hover {
+    -fx-background-color: #b5efff;
+    -fx-background-radius: 20;
+}
+
+
+.whiteBackground {
+    -fx-background-color: #fff9e0;
+}
+
+.orangeBackground {
+    -fx-background-color: #EF8A2D;
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+    -fx-text-fill: #fff9e0;
+}
+
+.errorText {
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+    -fx-text-fill: #EF8A2D;
+}
+
+
+.validationText {
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 17;
+    -fx-text-fill: #ffe106;
+}
+
+.generalText {
+    -fx-font-family: "Verdana";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+    -fx-text-fill: #fff9e0;
+}
+
+.generalTextTitle {
+    -fx-font-family: "Verdana";
+    -fx-font-weight: bold;
+    -fx-font-size: 30;
+    -fx-text-fill: #fff9e0;
+}
+
+.goalButtons {
+    -fx-alignment: center;
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+    -fx-text-fill: #0097B2;
+    -fx-background-color: #fff9e0;
+    -fx-background-radius: 20;
+    -fx-pref-width: 70;
+}
+
+.goalButtons:hover {
+    -fx-background-color: #b5efff;
+}
+
+.selectedGoalButtons {
+    -fx-alignment: center;
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+    -fx-text-fill: #fff9e0;
+    -fx-background-color: #EF8A2D;
+    -fx-background-radius: 20;
+    -fx-pref-width: 70;
+}
+
+.selectedCharacterButtons {
+    -fx-alignment: center;
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+    -fx-text-fill: #fff9e0;
+    -fx-background-color: #EF8A2D;
+    -fx-background-radius: 20;
+    -fx-pref-width: 180;
+}
+
+.instructions {
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: normal ;
+    -fx-font-size: 18;
+    -fx-text-fill: #000000;
+}
+
+.itemAction {
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: normal ;
+    -fx-font-size: 25;
+    -fx-text-fill: #000000;
+}
+
+.headingGame {
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: Bold ;
+    -fx-font-size: 30;
+    -fx-text-fill: #0097B2;
+}
+
+.pointsText {
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: normal ;
+    -fx-font-size: 40;
+    -fx-text-fill: #000000;
+}
+
+.fieldInputs {
+    -fx-font-family: "Verdana";
+    -fx-font-size: 18;
+    -fx-text-fill: #000000;
+}
+
+.blueBackground {
+    -fx-background-color: #0097B2;
+}
+
+.imageButton {
+    -fx-background-color: #fff9e0;
+    -fx-background-radius: 10;
+}
+
+.imageButton:hover {
+    -fx-background-color: #b5efff;
+    -fx-background-radius: 10;
+}
+
+.selectedImageButton {
+    -fx-background-color: #EF8A2D;
+    -fx-background-radius: 10;
+}
+
+.alert-dialog .button {
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+    -fx-text-fill: #fff9e0;
+    -fx-background-color: #0097B2;
+    -fx-background-radius: 20;
+}
+
+.alert-dialog .button:hover {
+    -fx-background-color: #b5efff;
+    -fx-background-radius: 20;
+}
+
+.alert-dialog .label {
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+    -fx-text-fill: #0097B2;
+}
+
+.alert-dialog .dialog-pane {
+    -fx-background-color: #0097B2;
+}
+
+.storyChoiceButtons {
+    -fx-alignment: center;
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+    -fx-text-fill: #fff9e0;
+    -fx-background-color: #0097B2;
+    -fx-background-radius: 20;
+}
+
+.storyChoiceButtons:hover {
+    -fx-background-color: #b5efff;
+    -fx-background-radius: 20;
+}
+
+.winnerTextBig {
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 40;
+    -fx-text-fill: #0097B2;
+}
+
+.winnerTextSmall {
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+    -fx-text-fill: #0097B2;
+}
+
+.goalFulfilled {
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+    -fx-text-fill: #56961c;
+}
+
+.goalNotFulfilled {
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+    -fx-text-fill: #c7070e;
+}
+
+.vBoxRounded {
+    -fx-background-radius: 30px;
+    -fx-background-color: #fff9e0;
+    -fx-border-radius: 30px;
+}
+
+.vBoxRoundedWinning {
+    -fx-background-radius: 30px;
+    -fx-background-color: #fff9e0;
+    -fx-border-radius: 30px;
+}
+
+.selectAFileText {
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-font-size: 30;
+    -fx-text-fill: #ffe106;
+}
+
+
+
+
+

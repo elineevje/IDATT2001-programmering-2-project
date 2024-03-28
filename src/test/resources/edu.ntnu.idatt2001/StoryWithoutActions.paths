@@ -1,0 +1,10 @@
+Test Story without actions
+
+::Opening passage
+This is the opening passage.
+[test link text](test link reference)
+
+::Test Passage
+This is a test passage.
+[test link text1](test link reference1)
+[test link text2](test link reference2)
